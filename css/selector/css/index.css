@@ -1,0 +1,20 @@
+#first-paragraph {
+  color: red;
+}
+
+#second-paragraph {
+  color: green;
+}
+
+.color-blue {
+  color: blue;
+}
+
+#header h3 {
+  font-size: 24px;
+  font-style: italic;
+}
+
+#header a {
+  text-decoration: none;
+}

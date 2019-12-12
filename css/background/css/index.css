@@ -1,0 +1,16 @@
+body {
+  background-color: aqua;
+}
+
+div {
+  /* dang o index.css di ra ngoai thu muc css va di vao trong thu muc img */
+  background-image: url("../img/nature.jpeg");
+  background-repeat: no-repeat;
+  /* border-width: 20px;
+  border-color: black;
+  border-style: solid; */
+  border: 20px solid black;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}

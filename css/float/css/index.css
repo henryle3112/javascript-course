@@ -1,0 +1,55 @@
+/* reset css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* end reset css */
+.container {
+  width: 1200px;
+  height: 1000px;
+}
+
+/* header css  */
+#header {
+  width: 100%;
+  height: 20%;
+  background-color: orange;
+}
+
+/* end header css */
+
+/* content css */
+#main-content {
+  width: 100%;
+  height: 60%;
+}
+
+#content {
+  width: 60%;
+  height: 100%;
+  background: red;
+  float: left;
+}
+
+#sidebar {
+  width: 40%;
+  height: 100%;
+  background: blue;
+  float: right;
+}
+
+/* main content css */
+
+/* footer css  */
+#footer {
+  width: 100%;
+  height: 20%;
+  background: orange;
+}
+
+/* end footer css */
+
+.clear {
+  clear: both;
+}

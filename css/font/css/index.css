@@ -1,0 +1,11 @@
+/* color: thay doi mau chu */
+p {
+  color: red;
+  font-style: italic;
+  /* text-align: center; */
+  text-align: justify;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+
